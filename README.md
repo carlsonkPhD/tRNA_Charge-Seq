@@ -13,4 +13,5 @@ The text files containing counts of charged and uncharged tRNA were then utilize
 
 
 These scripts were used in the following publications:
+
 Cordova, R. A., Misra, J., Amin, P. H., Klunk, A. J., Damayanti, N. P., Carlson, K. R., Elmendorf, A. J., Kim, H.-G., Mirek, E. T., Elzey, B. D., Miller, M. J., Dong, X. C., Cheng, L., Anthony, T. G., Pili, R., Wek, R. C., and Staschke, K. A. (2022) GCN2 eIF2 kinase promotes prostate cancer by maintaining amino acid homeostasis. eLife 11, e81083. [https://doi.org/10.7554/eLife.81083](https://doi.org/10.7554/eLife.81083)
