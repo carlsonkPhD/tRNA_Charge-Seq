@@ -9,7 +9,7 @@ The produced files hg38tRNAsCCA.fa and mm10-tRNAsPheCCa.fa were used as the refe
 
 Following alignment the python script parseSamCharge.py was used to identify the charging status of each read contained within the alinged read files and counts of charged and uncharged reads for each isodecoder were saved as text files.
 
-The text files containing counts of charged and uncharged tRNA were then utilized by condenseCountsRicardo.R to calculate statistics and create graphs.
+The text files containing counts of charged and uncharged tRNA were then utilized by condenseCountsMEF.R and condenseCountsNTERT.R to calculate statistics and create graphs.
 
 
 These scripts were used in the following publications:
